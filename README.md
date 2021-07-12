@@ -1,3 +1,5 @@
+https://find-your-coach.netlify.app/coaches // sign up with any email you want
+
 # find-a-coach
 
 ## Project setup
